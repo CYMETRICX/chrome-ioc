@@ -5,4 +5,4 @@ This repo for the Google Chrome  Malicious Extensio we will update the list.csv 
 
 We have a telegram group https://t.me/browseriocs
 
-kindly add your srouces into our telegram channle and we will review the all soruces daliy and update the  list.csv file automatically 
+kindly add your sources into our telegram channle and we will review the all soruces daliy and update the  list.csv file automatically 
